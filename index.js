@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 /**
  * 检查各个项目对base 的依赖，根据需要进行更新
  * runtime: node

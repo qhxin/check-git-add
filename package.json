@@ -1,6 +1,6 @@
 {
   "name": "check-git-add",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check git add",
   "bin": {
     "checkGitAdd": "index.js"
