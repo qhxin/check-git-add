@@ -1,12 +1,16 @@
 {
   "name": "check-git-add",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "check git add",
   "bin": {
     "checkGitAdd": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qhxin/check-git-add.git"
   },
   "author": "",
   "license": "ISC"
